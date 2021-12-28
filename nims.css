@@ -6,6 +6,7 @@
 
 body {
   color: white !important;
+  height: 100vh;
   background-color: #272727 !important;
   font-family: "Montserrat", sans-serif;
 }
